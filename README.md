@@ -1,4 +1,14 @@
 # Ecological Information Research Knowledge Base
+
+**Work in Progress — Academic Research Resource**
+
+EIRKB contains evolving research, provisional classifications and references undergoing verification.
+Research by Jonathan Minchin, Ecological Interaction. See [CITATION.cff](CITATION.cff) for citation metadata and [CHANGELOG.md](CHANGELOG.md) for development history.
+
+Research documents: [History and Theory of Ecological Information](MASTER_history_theory_ecological_information.md) and [Reference Register](EIRKB%20Reference%20Register.md).
+
+Planned research website: https://ecological-interaction.github.io/information/EIRKB/ (not deployed by this preparation).
+
 ## Project Definition, Architecture and Research Protocol
 
 **Acronym:** EIRKB  

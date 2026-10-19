@@ -6,8 +6,6 @@ The three structures are different ways of interrogating the same body of knowle
 2. **Overlapping Lineages** — *What persistent intellectual questions run across that history?*
 3. **Intellectual Map** — *What bodies of knowledge do we need to understand the subject now?*
 
-This consolidated framework brings the original baseline into the expanded discussion of 30 September 2026. Earlier titles remain as headings within their corresponding expanded topics; their original section numbers are recorded alongside them. Explanatory passages are retained once, while the lineages and topic map provide different routes through the material. These editorial connections and the integration notes are new; the original status and provenance remain at the end.
-
 ## I. HISTORICAL ARC
 
 ### From reading nature to ecological intelligence
@@ -155,10 +153,6 @@ Aerial photography and eventually satellite remote sensing produce another trans
 **observation becomes spatially continuous.**
 
 Instead of measuring selected organisms or plots, scientists can repeatedly observe landscapes, regions and eventually the entire planet.
-
-<!-- Original image-group metadata (images unavailable in the recovered text):
-{"aspect_ratio":"16:9","query":["early ecology field quadrat historical photograph","Landsat satellite early Earth remote sensing","modern ecological remote sensing multispectral vegetation","environmental sensor network ecology"]}
--->
 
 Spectral information introduces a particularly useful conceptual example for the course. Vegetation can be represented as RGB values, spectral bands and eventually indices such as NDVI.
 
@@ -539,13 +533,13 @@ The expanded structure now contains fourteen lineages. The earlier nine titled d
 
 **Aristotle → Uexküll → Gibson → Maturana & Varela → enactive cognition → contemporary sensory ecology**
 
-Jakob von Uexküll is an unusually important starting point. His concept of **Umwelt** describes the species-specific perceptual world available to an organism. Different organisms therefore inhabit different informational versions of the same physical environment. Contemporary biosemiotics continues to develop this idea, including recent work applying Umwelt analysis directly to multispecies places. :chatgpt-content-reference{index="1"}
+Jakob von Uexküll is an unusually important starting point. His concept of **Umwelt** describes the species-specific perceptual world available to an organism. Different organisms therefore inhabit different informational versions of the same physical environment. Contemporary biosemiotics continues to develop this idea, including recent work applying Umwelt analysis directly to multispecies places.
 
 **Key thinkers:** Uexküll; Charles Sanders Peirce; Thomas Sebeok; Jesper Hoffmeyer; Kalevi Kull; Timo Maran.
 
 **Key concepts:** Umwelt, signs, semiosis, biosemiotics, ecosemiotics, organism–environment coupling.
 
-Maran and Kull explicitly define **ecosemiotics** around environmental perception, conceptual categorisation and transformation of environments. Significantly, their genealogy explicitly includes Bateson. :chatgpt-content-reference{index="2"}
+Maran and Kull explicitly define **ecosemiotics** around environmental perception, conceptual categorisation and transformation of environments. Significantly, their genealogy explicitly includes Bateson.
 
 This could become one of the deepest theoretical foundations for your question:
 
@@ -557,7 +551,7 @@ This could become one of the deepest theoretical foundations for your question:
 
 A closely related but independently developed tradition comes from James J. Gibson.
 
-Gibson's *The Ecological Approach to Visual Perception* (1979) treats perception not simply as internal processing of sensory inputs but as an organism actively picking up information from its environment. His ideas of **affordances, invariants and information pickup** are particularly relevant. :chatgpt-content-reference{index="4"}
+Gibson's *The Ecological Approach to Visual Perception* (1979) treats perception not simply as internal processing of sensory inputs but as an organism actively picking up information from its environment. His ideas of **affordances, invariants and information pickup** are particularly relevant.
 
 There is an intriguing bridge here:
 
@@ -607,7 +601,7 @@ This is where your suggestion of George Church becomes useful.
 
 Church represents something different from Bateson or Morton. He is less a philosopher of ecological information than an important figure in the technological transition from **reading biological information to writing it**.
 
-His work spans genome sequencing, molecular barcoding, DNA/RNA measurement, genome synthesis and synthetic biology; his Harvard research description explicitly includes measurement, synthesis and modelling of biomedical **and ecological systems**. :chatgpt-content-reference{index="16"}
+His work spans genome sequencing, molecular barcoding, DNA/RNA measurement, genome synthesis and synthetic biology; his Harvard research description explicitly includes measurement, synthesis and modelling of biomedical **and ecological systems**.
 
 The genealogy here becomes:
 
@@ -623,7 +617,7 @@ The genealogy here becomes:
 
 But this strand needs critics and alternatives too.
 
-Denis Noble argues against treating genes as the uniquely privileged causal level. His systems-biology account stresses feedback across multiple organisational levels. :chatgpt-content-reference{index="18"}
+Denis Noble argues against treating genes as the uniquely privileged causal level. His systems-biology account stresses feedback across multiple organisational levels.
 
 That debate is exceptionally useful educationally:
 
@@ -655,7 +649,7 @@ Thus organisms **sense, embody, produce, transmit and respond to information**.
 
 Here Gregory Bateson becomes pivotal.
 
-His *Steps to an Ecology of Mind* (1972) brought communication theory, cybernetics, anthropology, evolution and ecology together. Bateson's importance is not simply the famous formulation of information as a difference that makes a difference; it is his attempt to understand **pattern, relationship, feedback and mind across organism/environment systems**. Contemporary ecosemiotics explicitly acknowledges this lineage. :chatgpt-content-reference{index="6"}
+His *Steps to an Ecology of Mind* (1972) brought communication theory, cybernetics, anthropology, evolution and ecology together. Bateson's importance is not simply the famous formulation of information as a difference that makes a difference; it is his attempt to understand **pattern, relationship, feedback and mind across organism/environment systems**. Contemporary ecosemiotics explicitly acknowledges this lineage.
 
 Around Bateson sits a major constellation:
 
@@ -667,7 +661,7 @@ Around Bateson sits a major constellation:
 **Stafford Beer** — viable systems  
 **Bateson** — ecology of mind
 
-Shannon's information theory subsequently entered ecology; Robert MacArthur's 1955 work is often identified as an early application of information theory to ecological systems. :chatgpt-content-reference{index="7"}
+Shannon's information theory subsequently entered ecology; Robert MacArthur's 1955 work is often identified as an early application of information theory to ecological systems.
 
 This gives us a historical transformation:
 
@@ -695,11 +689,11 @@ The expanded scope makes **entropy, noise and control** explicit alongside infor
 
 Howard T. Odum deserves a major place alongside Bateson.
 
-Odum developed systems ecology through energy flows, feedback, networks and ecological modelling and later explicitly considered the role and value of **information** within natural and social systems. :chatgpt-content-reference{index="9"}
+Odum developed systems ecology through energy flows, feedback, networks and ecological modelling and later explicitly considered the role and value of **information** within natural and social systems.
 
 His diagrams are particularly interesting for your course because they are effectively an early **visual programming language for ecological systems**.
 
-Odum describes ecosystems as processing **energy, materials and information**. :chatgpt-content-reference{index="10"}
+Odum describes ecosystems as processing **energy, materials and information**.
 
 This lineage includes:
 
@@ -711,7 +705,7 @@ This lineage includes:
 **Ilya Prigogine** — dissipative structures  
 **Stuart Kauffman** — self-organisation and complexity.
 
-Kauffman's *The Origins of Order* is especially relevant because it asks how complex biological systems can spontaneously develop organisation and how self-organisation interacts with selection. :chatgpt-content-reference{index="11"}
+Kauffman's *The Origins of Order* is especially relevant because it asks how complex biological systems can spontaneously develop organisation and how self-organisation interacts with selection.
 
 This flow-based lineage also foregrounds **nutrients, trophic networks, metabolism and ecosystem organisation**. It eventually encounters industrial ecology, developed in [lineage 13](#lineage-13).
 
@@ -727,7 +721,7 @@ This flow-based lineage also foregrounds **nutrients, trophic networks, metaboli
 
 Another branch scales this reasoning to Earth.
 
-James Lovelock and Lynn Margulis proposed that biota and physical environment are dynamically coupled. Their 1974 Gaia paper described atmospheric homeostasis involving the biosphere. :chatgpt-content-reference{index="14"}
+James Lovelock and Lynn Margulis proposed that biota and physical environment are dynamically coupled. Their 1974 Gaia paper described atmospheric homeostasis involving the biosphere.
 
 The intellectual lineage extends backwards and forwards:
 
@@ -776,9 +770,9 @@ This may be the most directly relevant contemporary literature to **Making Place
 
 Jennifer Gabrys should definitely enter your central reading list.
 
-Her *Program Earth: Environmental Sensing Technology and the Making of a Computational Planet* examines distributed environmental sensing and makes the crucial argument that sensors don't simply passively record environments. Sensor technologies participate in producing environments as computational objects. :chatgpt-content-reference{index="27"}
+Her *Program Earth: Environmental Sensing Technology and the Making of a Computational Planet* examines distributed environmental sensing and makes the crucial argument that sensors don't simply passively record environments. Sensor technologies participate in producing environments as computational objects.
 
-She traces a history from Sputnik through electronic environmental monitoring toward sensorised environments and argues that computational technologies have become environmental while environments themselves increasingly become computational. :chatgpt-content-reference{index="28"}
+She traces a history from Sputnik through electronic environmental monitoring toward sensorised environments and argues that computational technologies have become environmental while environments themselves increasingly become computational.
 
 This is remarkably close to your PhD framing.
 
@@ -799,9 +793,9 @@ Around Gabrys:
 **Yuk Hui** — digital objects, technodiversity/cosmotechnics  
 **Gilbert Simondon** — technology, information and milieu.
 
-Simondon looks particularly important. *Individuation in Light of Notions of Form and Information* directly connects information, organisms, milieu, thermodynamics, cybernetics and technical objects. :chatgpt-content-reference{index="29"}
+Simondon looks particularly important. *Individuation in Light of Notions of Form and Information* directly connects information, organisms, milieu, thermodynamics, cybernetics and technical objects.
 
-Yuk Hui then carries parts of this tradition into digital systems, examining digital objects relationally within technical systems and milieux. :chatgpt-content-reference{index="30"}
+Yuk Hui then carries parts of this tradition into digital systems, examining digital objects relationally within technical systems and milieux.
 
 This technical lineage encompasses **environmental measurement, spatial representation, ecological indices, data infrastructures and digital twins**, alongside remote sensing and planetary computation. Its question follows directly from the original discussion:
 
@@ -821,11 +815,11 @@ This technical lineage encompasses **environmental measurement, spatial represen
 
 Here we move into a particularly fertile contemporary literature.
 
-Eduardo Kohn's *How Forests Think* asks anthropology to consider forms of representation and meaning extending beyond humans. :chatgpt-content-reference{index="20"}
+Eduardo Kohn's *How Forests Think* asks anthropology to consider forms of representation and meaning extending beyond humans.
 
-Donna Haraway develops multispecies relations, sympoiesis and “making-with” in *Staying with the Trouble*. :chatgpt-content-reference{index="22"}
+Donna Haraway develops multispecies relations, sympoiesis and “making-with” in *Staying with the Trouble*.
 
-Vinciane Despret asks how scientific questions and experimental arrangements affect what animals are capable of revealing to observers. :chatgpt-content-reference{index="24"}
+Vinciane Despret asks how scientific questions and experimental arrangements affect what animals are capable of revealing to observers.
 
 Add:
 
@@ -838,7 +832,7 @@ Add:
 **Eva Meijer** — animal communication/politics  
 **James Bridle** — technological/nonhuman intelligence.
 
-Multispecies studies now explicitly describes itself as studying epistemological and ethical consequences of knowing and living with fungi, microorganisms, animals, plants and other forms of life. :chatgpt-content-reference{index="25"}
+Multispecies studies now explicitly describes itself as studying epistemological and ethical consequences of knowing and living with fungi, microorganisms, animals, plants and other forms of life.
 
 This directly supports the **“senses of other organisms”** component of Ecological Interactions.
 
@@ -864,9 +858,9 @@ The sequence:
 → *Dark Ecology*  
 → *Being Ecological*
 
-challenges conventional ideas of “nature,” environmental separation and scale. :chatgpt-content-reference{index="32"}
+challenges conventional ideas of “nature,” environmental separation and scale.
 
-**Hyperobjects** is particularly relevant to ecological information because phenomena such as climate change exceed ordinary human spatial and temporal perception. They become knowable through **distributed measurements, models, visualisations and computational infrastructures**. :chatgpt-content-reference{index="33"}
+**Hyperobjects** is particularly relevant to ecological information because phenomena such as climate change exceed ordinary human spatial and temporal perception. They become knowable through **distributed measurements, models, visualisations and computational infrastructures**.
 
 That produces a striking connection:
 
@@ -874,7 +868,7 @@ That produces a striking connection:
 
 **Remote sensing and ecological computing provide mechanisms through which parts of the otherwise imperceptible phenomenon become detectable.**
 
-And Bruno Latour belongs very close to this discussion. His later work on Gaia and **Critical Zones** asks how scientific instruments, representations, organisms, soils, atmospheres and political institutions participate in making terrestrial conditions knowable. :chatgpt-content-reference{index="35"}
+And Bruno Latour belongs very close to this discussion. His later work on Gaia and **Critical Zones** asks how scientific instruments, representations, organisms, soils, atmospheres and political institutions participate in making terrestrial conditions knowable.
 
 The expanded philosophical questions are:
 
@@ -1383,26 +1377,13 @@ And importantly, I would freeze these three extended structures as our next conc
 
 ### Baseline Master Document — Bioregional Course
 
-The following original status description is preserved unchanged as the record of the baseline; statements about its original ordering and scope describe that earlier version.
-
 **Status:** Preserved baseline for subsequent development.  
 **Prepared:** 30 September 2026.  
-**Source:** “History And Theory Writing”, conversation `6ab7f8d3-1930-83ed-8dfd-70c755bbe366`.
 
-This document preserves the original ten-part sequence (A), the later nine overlapping intellectual lineages (B), and the provisional intellectual map and concluding discussion that followed them (C). All three were recovered from the original conversation; no substantive wording has been reconstructed and no new taxonomy has been substituted. The original introductory and concluding prose is included.
-
-**Editorial notes (new, not part of the recovered text):**
-- The exact original tenth heading is **“10. Toward ecological intelligence”**. The later user recollection **“10. Towards Ecological Intelligence”** is recorded here as a wording variant, not silently substituted.
-- Original headings, ordering, spelling, concepts, named thinkers, emphasis, and explanatory text are preserved. A/B/C labels and this front matter are editorial additions.
-- ChatGPT entity display wrappers are rendered as their original person names. The original image-search block is retained as an HTML comment at its original location; actual images were not supplied by the recovered conversation.
-- Original citation markers of the form `:chatgpt-content-reference{index="…"}` are retained verbatim. Their destination URLs were not supplied by the conversation reader, so these are archival markers rather than working references. No replacement citations have been invented.
 - This is preservation of the historical discussion, not a fresh fact-check or endorsement of every historical claim or proposed connection. The map remains provisional.
 - Subsequent development should retain this baseline and explicitly record additions or changed terminology. The Ecological Reference Register V2 workbook has not been modified.
 
-**Source provenance:** A is the complete assistant message `be9d46f8-55c3-469d-8acc-835ee74dd310`, in turn `bbb21b66-7282-45bb-9f29-557c1147c3c1`. B and C together preserve the complete assistant message `a4dfa5fc-8703-4e93-a5a0-2de1d2cf46b0`, in turn `bbb21be7-1983-469f-9670-43b1457ee66c`.
-
 ### Status update — 2026-09-30 21:09:25 CEST (UTC+0200)
 
-**Edit: merge the expanded three-structure conceptual framework.** Integrated the reply to the 30 September 2026, 20:40 question in “History And Theory Writing” into the existing master: 20 historical/conceptual stages, 14 overlapping lineages and eight knowledge territories. Retained all original section titles and substantive passages, reconciled changed titles as nested headings with original section numbers, and kept the original provisional map. Consolidated repeated explanations and replaced repeated closing contents lists with cross-references. Preserved the previous status and provenance above; no Reference Register changes were made.
+**Edit: merge the expanded three-structure conceptual framework.** Integrated the expanded conceptual framework into the existing master: 20 historical/conceptual stages, 14 overlapping lineages and eight knowledge territories. Retained all original section titles and substantive passages, reconciled changed titles as nested headings with original section numbers, and kept the original provisional map. Consolidated repeated explanations and replaced repeated closing contents lists with cross-references. No Reference Register changes were made.
 
-**Update source:** Conversation `6ab7f8d3-1930-83ed-8dfd-70c755bbe366`, turn `4e4ab395-0d4c-4b46-8e37-69fe41290fd2`, assistant message `98d3ae30-4d7b-435a-a80f-b506007de93e`. The reply was retrieved through the conversation reader; its ending from “F9. Sustainability science” onward was supplied by the user in this task. Copied interface controls were excluded. The source's assertion that all earlier titles were unchanged was reconciled against the actual baseline rather than repeated as fact.

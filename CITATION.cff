@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work-in-progress academic research resource, please cite it using this metadata and identify the commit or version consulted."
+type: dataset
+title: "Ecological Information Reference Knowledge Base (EIRKB)"
+authors:
+  - family-names: Minchin
+    given-names: Jonathan
+    affiliation: Ecological Interaction
+    orcid: "https://orcid.org/0000-0001-8152-1796"
+repository-code: "https://github.com/ecological-interaction/EIRKB"
+url: "https://ecological-interaction.github.io/information/EIRKB/"
+abstract: "Work in Progress — Academic Research Resource. An evolving collection of ecological research writing, reference registers, provisional classifications and associated metadata. References remain under verification; the research website is planned."
