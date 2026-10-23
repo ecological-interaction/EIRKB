@@ -1,0 +1,45 @@
+%% Authoritative diagram source; fixed-layout hints are consumed by render_eirkb_overview.py.
+%% @canvas 1200 890
+%% @title EIRKB — research organisation
+%% @description EIRKB organises literature and concepts through Historical Arc (HA), Intellectual Lineages (IL) and Intellectual Map (IM). These are project research constructs, not universal classifications. Identity, metadata, relationships and provenance support the narrative and reference registers. SQLite and semantic exports remain planned.
+%% @box TITLE 40 24 1120 80 heading
+%% @box SCOPE 40 140 1120 90 knowledge
+%% @box HA 40 280 350 132 knowledge
+%% @box IL 425 280 350 132 knowledge
+%% @box IM 810 280 350 132 knowledge
+%% @box PROTOCOL 40 460 1120 90 method
+%% @box NARRATIVE 40 600 540 100 output
+%% @box REGISTERS 620 600 540 100 output
+%% @box FUTURE 40 750 1120 70 neutral
+%% @note 600 860 HA / IL / IM are project research constructs; future database capabilities are not implemented.
+flowchart TB
+    TITLE["EIRKB — Ecological Information Research Knowledge Base"]
+    SCOPE["History and theory of ecological information<br/>Literature · people · concepts · fields · methods"]
+    HA["HA — Historical Arc<br/>Development through time<br/>Registered form: HA01"]
+    IL["IL — Intellectual Lineages<br/>Connections across thinkers<br/>Registered form: IL01"]
+    IM["IM — Intellectual Map<br/>Thematic knowledge territories<br/>Registered forms: IM-A · IM-A4"]
+    PROTOCOL["Research organisation and evidence<br/>Identity · Metadata · Classification · Relationships · Provenance"]
+    NARRATIVE["Master Markdown<br/>Curated intellectual narrative"]
+    REGISTERS["Reference registers<br/>Markdown reading view · XLSX source material"]
+    FUTURE["Planned: SQLite canonical store · CSV exchange · later JSON-LD / RDF"]
+    TITLE --> SCOPE
+    SCOPE --> HA
+    SCOPE --> IL
+    SCOPE --> IM
+    HA --> PROTOCOL
+    IL --> PROTOCOL
+    IM --> PROTOCOL
+    PROTOCOL --> NARRATIVE
+    PROTOCOL --> REGISTERS
+    classDef heading fill:#cce3f9,stroke:#173b6b,color:#15243d;
+    classDef knowledge fill:#e1f0e6,stroke:#41744d,color:#203d29;
+    classDef method fill:#e1daf0,stroke:#574087,color:#29223e;
+    classDef sources fill:#feeec9,stroke:#a16a16,color:#543a13;
+    classDef card fill:#fef6e3,stroke:#a16a16,color:#302b20;
+    classDef output fill:#eaedf1,stroke:#7c8c9d,color:#25334a;
+    classDef neutral fill:#f8f9fa,stroke:#99a4b0,color:#3a4656;
+    class TITLE heading;
+    class SCOPE,HA,IL,IM knowledge;
+    class PROTOCOL method;
+    class NARRATIVE,REGISTERS output;
+    class FUTURE neutral;

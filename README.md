@@ -1,5 +1,9 @@
 # Ecological Information Research Knowledge Base
 
+![EIRKB research organisation: HA Historical Arc, IL Intellectual Lineages and IM Intellectual Map, with evidence, narrative and reference registers](assets/diagrams/eirkb_overview.svg)
+
+*Documented research organisation; HA / IL / IM are project constructs, not universal classifications.* [View full-size diagram](assets/diagrams/eirkb_overview.svg).
+
 **Work in Progress — Academic Research Resource**
 
 EIRKB contains evolving research, provisional classifications and references undergoing verification.
