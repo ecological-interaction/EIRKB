@@ -4,7 +4,7 @@
 
 [View full-size federation diagram](assets/diagrams/eirkb_federation.svg).
 
-EIRKB organises research references, concepts, people and evidence for the history and theory of ecological information, retaining project-specific analysis and synthesis.
+EIRKB collects references, concepts and people concerned with the history and theory of ecological information, supporting historical, intellectual and thematic analysis. Its GitHub repository provides the [scientific register](https://github.com/ecological-interaction/EIRKB/blob/main/EIRKB_Scientific_Reference_Register.md) containing the complete research tables, the [machine reference](https://github.com/ecological-interaction/EIRKB/blob/main/EIRKB_Machine_Reference.json) containing structured records and identifiers, and the [research protocol](https://github.com/ecological-interaction/EIRKB/blob/main/EIRKB_Research_Protocol.md) describing methods and governance.
 
 ## References
 
