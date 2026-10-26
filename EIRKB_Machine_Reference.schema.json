@@ -1,0 +1,168 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "EIRKB lossless register serialization, draft 0.1",
+  "type": "object",
+  "required": [
+    "metadata",
+    "collections",
+    "source_transcription",
+    "source_context",
+    "analytical_documents"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "metadata": {
+      "type": "object"
+    },
+    "source_transcription": {
+      "type": "object",
+      "required": [
+        "filename",
+        "edition",
+        "sha256",
+        "markdown"
+      ]
+    },
+    "source_context": {
+      "type": "object"
+    },
+    "analytical_documents": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 3
+    },
+    "collections": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "original_reference_records",
+        "original_concept_records",
+        "people_index",
+        "categories_and_research_notes",
+        "historical_administrative_guide",
+        "entities",
+        "resources",
+        "people",
+        "structured_concept_records",
+        "classifications",
+        "relationships",
+        "controlled_vocabulary",
+        "migration_source_mappings"
+      ],
+      "properties": {
+        "original_reference_records": {
+          "$ref": "#/$defs/source_table"
+        },
+        "original_concept_records": {
+          "$ref": "#/$defs/source_table"
+        },
+        "people_index": {
+          "$ref": "#/$defs/source_table"
+        },
+        "categories_and_research_notes": {
+          "$ref": "#/$defs/source_table"
+        },
+        "historical_administrative_guide": {
+          "$ref": "#/$defs/source_table"
+        },
+        "entities": {
+          "$ref": "#/$defs/source_table"
+        },
+        "resources": {
+          "$ref": "#/$defs/source_table"
+        },
+        "people": {
+          "$ref": "#/$defs/source_table"
+        },
+        "structured_concept_records": {
+          "$ref": "#/$defs/source_table"
+        },
+        "classifications": {
+          "$ref": "#/$defs/source_table"
+        },
+        "relationships": {
+          "$ref": "#/$defs/source_table"
+        },
+        "controlled_vocabulary": {
+          "$ref": "#/$defs/source_table"
+        },
+        "migration_source_mappings": {
+          "$ref": "#/$defs/source_table"
+        }
+      }
+    }
+  },
+  "$defs": {
+    "source_table": {
+      "type": "object",
+      "required": [
+        "source_section",
+        "source_start_line",
+        "headers",
+        "rows",
+        "raw_markdown",
+        "notes_markdown"
+      ],
+      "properties": {
+        "source_section": {
+          "type": "string"
+        },
+        "source_start_line": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "headers": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "rows": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "cells",
+              "original_empty_cells",
+              "source_row_ordinal",
+              "raw_markdown"
+            ],
+            "properties": {
+              "cells": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "original_empty_cells": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "minimum": 0
+                }
+              },
+              "source_row_ordinal": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "raw_markdown": {
+                "type": "string"
+              }
+            },
+            "additionalProperties": false
+          }
+        },
+        "raw_markdown": {
+          "type": "string"
+        },
+        "notes_markdown": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}

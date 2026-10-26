@@ -1,0 +1,60 @@
+%% Authoritative diagram source; fixed-layout hints are consumed by render_eirkb_federation.py.
+%% @canvas 1200 620
+%% @title EIRKB — reference corpus and developing federation
+%% @description EIRKB reference corpus, structured JSON and human-readable presentations connect conceptually through developing DRM conventions to local analysis, synthesis and emerging research uses. No HA, IL or IM memberships, new taxonomy or operational federation are asserted.
+%% @box TITLE 40 20 1120 76 heading
+%% @group EXAMPLES 40 124 1120 180 sources
+%% @box CORPUS 60 184 530 98 card
+%% @box RECORDS 610 184 530 98 card
+%% @text CORPUS 22,18,18 28,55,80 600,400,400
+%% @text RECORDS 22,18,18 28,55,80 600,400,400
+%% @box DRM 40 332 1120 76 federation
+%% @group APPLICATIONS 40 436 1120 132 application
+%% @box INTELLIGENCE 60 506 255 48 applicationcard
+%% @box DECISION 335 506 255 48 applicationcard
+%% @box PLACE 610 506 255 48 applicationcard
+%% @box TECHNOLOGY 885 506 255 48 applicationcard
+%% @note 600 604 Developing conventions; no new classifications, inferred memberships or implemented integration.
+%% @text TITLE 30,22 30,58 600,400
+%% @text EXAMPLES 27 34 600
+%% @text DRM 28,21 31,58 600,400
+%% @text APPLICATIONS 27,18 30,52 600,400
+%% @text INTELLIGENCE 22,15 20,38 600,400
+%% @text DECISION 22,15 20,38 600,400
+%% @text PLACE 22,15 20,38 600,400
+%% @text TECHNOLOGY 22,15 20,38 600,400
+flowchart TB
+    TITLE["EIRKB<br/>Ecological Information Research Knowledge Base"]
+    subgraph EXAMPLES["Reference corpus and research evidence"]
+        CORPUS["References · Concepts · People<br/>Original transcription and structured records<br/>Source status · Qualifications · Provenance"]
+        RECORDS["Structured authority and reading views<br/>JSON authority · Scientific register · README tables<br/>Legacy workbooks preserved separately"]
+    end
+    DRM["DRM (developing) Database Reference Methodology<br/>Shared conventions · Explicit identities and mappings · Source authority"]
+    subgraph APPLICATIONS["Analysis, Synthesis and Emerging Research Uses<br/>Conceptual relationships; no operational federation asserted"]
+        INTELLIGENCE["HA · IL · IM<br/>Project-specific analysis"]
+        DECISION["Local research<br/>and synthesis"]
+        PLACE["Interdisciplinary<br/>research links"]
+        TECHNOLOGY["Evidence-led<br/>interpretation"]
+    end
+    TITLE --> EXAMPLES
+    EXAMPLES <--> DRM
+    DRM <--> APPLICATIONS
+    classDef heading fill:#cce3f9,stroke:#173b6b,color:#15243d;
+    classDef knowledge fill:#e1f0e6,stroke:#41744d,color:#203d29;
+    classDef method fill:#e1daf0,stroke:#574087,color:#29223e;
+    classDef sources fill:#feeec9,stroke:#a16a16,color:#543a13;
+    classDef card fill:#fef6e3,stroke:#a16a16,color:#302b20;
+    classDef output fill:#eaedf1,stroke:#7c8c9d,color:#25334a;
+    classDef neutral fill:#f8f9fa,stroke:#99a4b0,color:#3a4656;
+    class TITLE heading;
+    class EXAMPLES sources;
+    class CORPUS,RECORDS card;
+    class DRM federation;
+    class APPLICATIONS application;
+    class INTELLIGENCE,DECISION,PLACE,TECHNOLOGY applicationcard;
+    class DRM developing;
+    classDef federation fill:#e1daf0,stroke:#574087,stroke-width:2,color:#29223e,font-weight:600,font-size:28;
+    classDef application fill:#eaedf1,stroke:#7c8c9d,stroke-width:2,color:#25334a,font-weight:600,font-size:27;
+    classDef applicationcard fill:#f5f6f8,stroke:#9ba8b6,stroke-width:1.2,color:#25334a;
+    classDef developing stroke-dasharray:6 4;
+    classDef classification fill:#fef6e3,stroke:#a16a16,color:#302b20;
