@@ -16,19 +16,19 @@ The three structures are different ways of interrogating the same body of knowle
 
 ### From reading nature to ecological intelligence
 
-This is the most book-like chronology. It describes the historical development of the means by which environments became observable, measurable, informational and ultimately computable.
+This chronology describes the historical development of the means by which environments became observable, measurable, informational and ultimately computable.
 
-**Editorial clarification:** The twenty-stage arrangement is a historical/conceptual progression, not a claim that every field originated after the preceding one. In particular, the later placement of limits, industrial ecology and Critical Zone science does not date their origins after contemporary AI.
+The twenty-stage arrangement is a historical/conceptual progression, not a claim that every field originated after the preceding one. In particular, the later placement of limits, industrial ecology and Critical Zone science does not date their origins after contemporary AI.
 
+<!-- Historical development note retained pending approved relocation:
 **Original structure: A — Original numbered sequence.** The original framing is retained below; its ten sections are integrated into the first ten expanded stages, with ecological quantification placed inside the broader measurement stage.
+-->
 
-For the bioregional course, I think **“History and Theory of Ecological Information”** could become an important conceptual strand. It would explain not merely *how we monitor nature*, but **how humans have decided what constitutes ecological information, how that information became measurable and computable, and how it has subsequently been used to make decisions**.
+**History and Theory of Ecological Information** examines not merely environmental monitoring, but **how humans have decided what constitutes ecological information, how that information became measurable and computable, and how it has subsequently been used to make decisions**.
 
-A useful historical arc would be:
+The historical arc can be represented as:
 
 **Observation → Measurement → Classification → Mapping → Sensing → Computation → Prediction → Ecological intelligence**
-
-This gives us a theoretical counterpart to the technical course material.
 
 ---
 
@@ -36,17 +36,17 @@ This gives us a theoretical counterpart to the technical course material.
 
 ### 1. Nature as signs — observation before instrumentation
 
-The history should begin well before modern ecology. Ecological information initially exists as **interpreted signs**: flowering, migration, tracks, weather, soil appearance, animal behaviour, seasonal cycles and relationships between organisms.
+This history begins well before modern ecology. Ecological information initially exists as **interpreted signs**: flowering, migration, tracks, weather, soil appearance, animal behaviour, seasonal cycles and relationships between organisms.
 
-This introduces an important theoretical distinction:
+This introduces a theoretical distinction:
 
 > **Nature produces signals; people construct information from those signals.**
 
 A bird call, spectral reflection from a leaf, fungal DNA fragment and change in soil moisture are physical phenomena. They become *ecological information* when they are detected, categorized and related to some question.
 
-This provides an excellent foundation for your interest in learning from organisms' senses and communication systems.
+This distinction provides a foundation for research on organisms' senses and communication systems.
 
-The expanded scope includes **embodied environmental knowledge; indigenous and vernacular ecological knowledge; agriculture, hunting and navigation; phenology; early natural philosophy; and Aristotle and theories of perception**. The fundamental condition is **human organisms reading other organisms and environments directly**.
+This stage includes **embodied environmental knowledge; indigenous and vernacular ecological knowledge; agriculture, hunting and navigation; phenology; early natural philosophy; and Aristotle and theories of perception**. The fundamental condition is **human organisms reading other organisms and environments directly**.
 
 ---
 
@@ -56,19 +56,19 @@ The expanded scope includes **embodied environmental knowledge; indigenous and v
 
 #### Classification — making nature legible
 
-*Original section A2.*
+<!-- Historical section mapping retained pending relocation approval: *Original section A2.* -->
 
 Natural history gradually formalised observation through specimens, taxonomies, collections and standardized descriptions.
 
-Linnaean taxonomy is important, but the course could move beyond a simple history of taxonomy toward **classification as an information technology**. Naming organisms makes observations comparable across places and observers.
+Beyond the history of Linnaean taxonomy, classification can be examined as **an information technology**. Naming organisms makes observations comparable across places and observers.
 
 Herbaria, natural-history collections, field notebooks and species catalogues can consequently be treated as early ecological databases.
 
-This raises a recurring course question:
+This raises a question about classification:
 
 **What is gained—and what disappears—when continuous ecological variation is converted into categories?**
 
-The expanded scope also includes **museums, species inventories, biogeography and Humboldt**. Together with the collections and records above, these make nature **recordable, comparable and retrievable**.
+This stage also includes **museums, species inventories, biogeography and Humboldt**. Together with the collections and records above, these make nature **recordable, comparable and retrievable**.
 
 ---
 
@@ -82,11 +82,11 @@ A major transition occurs:
 
 **quality → measurement → number**
 
-The following original section develops the specifically ecological, twentieth-century expression of that broader transition.
+The specifically ecological, twentieth-century expression of that broader transition is developed below.
 
 #### Quantification — ecology becomes measurable
 
-*Original section A4.*
+<!-- Historical section mapping retained pending relocation approval: *Original section A4.* -->
 
 During the twentieth century, quadrats, transects, population sampling, statistics, energy budgets, nutrient cycles and ecosystem modelling make ecological processes increasingly quantitative.
 
@@ -98,7 +98,7 @@ A critical distinction emerges between:
 
 An indicator is not nature itself. It is a deliberately selected compression of ecological complexity.
 
-That observation connects very strongly to your PhD interest in ecological indicators informing technology choice.
+That distinction is relevant to research examining how ecological indicators inform technology choice.
 
 ---
 
@@ -106,7 +106,7 @@ That observation connects very strongly to your PhD interest in ecological indic
 
 ### 4. Ecology — from objects to relationships
 
-*Original section A3; now stage 4.*
+<!-- Historical section mapping retained pending relocation approval: *Original section A3; now stage 4.* -->
 
 The emergence of ecology changes the informational object.
 
@@ -122,7 +122,7 @@ Haeckel's *Ökologie*, Darwinian relationships, biogeography, succession, food w
 
 The informational unit moves from **specimen → relationship → system**.
 
-The expanded scope adds **communities, Lotka, Lindeman, Clements, nutrient cycles, energy flows, Eugene Odum and Howard T. Odum** to the relationships and systems already identified above. Nature increasingly becomes understood as **process, interaction and system**.
+This ecological account adds **communities, Lotka, Lindeman, Clements, nutrient cycles, energy flows, Eugene Odum and Howard T. Odum** to the relationships and systems already identified above. Nature increasingly becomes understood as **process, interaction and system**.
 
 ---
 
@@ -132,7 +132,7 @@ The expanded scope adds **communities, Lotka, Lindeman, Clements, nutrient cycle
 
 #### Cybernetics and systems ecology — nature as information
 
-*Original section A5.*
+<!-- Historical section mapping retained pending relocation approval: *Original section A5.* -->
 
 The mid-twentieth century introduces another major conceptual transition. Cybernetics, information theory, systems theory and systems ecology introduce ideas of **feedback, communication, regulation, networks and information flows**.
 
@@ -140,9 +140,9 @@ Norbert Wiener, Claude Shannon and ecologists such as Eugene Odum become relevan
 
 The ecosystem can increasingly be represented as something resembling a dynamic information-processing system.
 
-But the course should distinguish carefully between **information about ecosystems** and claims that **ecosystems themselves process information**. The latter opens a much richer theoretical discussion involving biosemiotics, cognition and biological signalling.
+A distinction is needed between **information about ecosystems** and claims that **ecosystems themselves process information**. The latter raises theoretical questions involving biosemiotics, cognition and biological signalling.
 
-The expanded information-and-control genealogy also names **Weaver, Ashby, Stafford Beer, von Foerster and Bateson**, and makes **control, noise, channels and requisite variety** explicit. It distinguishes **difference, information and meaning** across organisms, machines and environments; the detailed theoretical relationships are developed in Structure II.4.
+The information-and-control genealogy also names **Weaver, Ashby, Stafford Beer, von Foerster and Bateson**, and makes **control, noise, channels and requisite variety** explicit. It distinguishes **difference, information and meaning** across organisms, machines and environments; the detailed theoretical relationships are developed in Structure II.4.
 
 ---
 
@@ -152,7 +152,7 @@ The expanded information-and-control genealogy also names **Weaver, Ashby, Staff
 
 #### Remote sensing — ecology becomes an image of the Earth
 
-*Original section A6.*
+<!-- Historical section mapping retained pending relocation approval: *Original section A6.* -->
 
 Aerial photography and eventually satellite remote sensing produce another transformation:
 
@@ -160,17 +160,17 @@ Aerial photography and eventually satellite remote sensing produce another trans
 
 Instead of measuring selected organisms or plots, scientists can repeatedly observe landscapes, regions and eventually the entire planet.
 
-Spectral information introduces a particularly useful conceptual example for the course. Vegetation can be represented as RGB values, spectral bands and eventually indices such as NDVI.
+Spectral information provides a conceptual example. Vegetation can be represented as RGB values, spectral bands and eventually indices such as NDVI.
 
-This fits directly with your **Four Ways of Seeing Green** exercises.
+The **Four Ways of Seeing Green** exercises illustrate these different representations.
 
 A plant becomes simultaneously:
 
 **an organism → a photograph → spectral measurements → an index → a mapped pixel → a time series.**
 
-Students can therefore experience the history of ecological information through computation rather than only reading about it.
+The sequence illustrates how computation can be used to examine transformations in ecological information.
 
-The expanded scope connects this remote-sensing transition with **cartography, multispectral imaging, GIS, landscape ecology, spatial statistics, related vegetation indices, LiDAR, radar, thermal sensing and planetary monitoring**. Observation progressively escapes the scale of the human observer, making Earth observable as a **continuous spatial field**.
+This account connects the remote-sensing transition with **cartography, multispectral imaging, GIS, landscape ecology, spatial statistics, related vegetation indices, LiDAR, radar, thermal sensing and planetary monitoring**. Observation progressively escapes the scale of the human observer, making Earth observable as a **continuous spatial field**.
 
 ---
 
@@ -180,7 +180,7 @@ The expanded scope connects this remote-sensing transition with **cartography, m
 
 #### Molecular ecology — organisms become information
 
-*Original section A7.*
+<!-- Historical section mapping retained pending relocation approval: *Original section A7.* -->
 
 Genetics introduces an almost opposite movement in scale.
 
@@ -190,11 +190,11 @@ DNA barcoding, metabarcoding, eDNA, metagenomics and increasingly environmental 
 
 A litre of water or gram of soil can consequently become an enormous ecological information source.
 
-This produces the **macro ↔ micro** structure already central to the Ecological Interactions seminar:
+The resulting **macro ↔ micro** structure connects the scales considered in the Ecological Interactions seminar:
 
 **Satellite → landscape → drone → organism → sensor → microscope → DNA**
 
-The expanded molecular genealogy names **Mendel; Watson, Crick and Franklin; molecular biology; genetic sequencing; microbiomes; and systems biology**. Biological inheritance and identity become readable informationally. Organisms are simultaneously **information-bearing systems and producers of detectable information**; Structure II.3 develops that distinction beyond genetics.
+The molecular genealogy names **Mendel; Watson, Crick and Franklin; molecular biology; genetic sequencing; microbiomes; and systems biology**. Biological inheritance and identity become readable informationally. Organisms are simultaneously **information-bearing systems and producers of detectable information**; Structure II.3 develops that distinction beyond genetics.
 
 ---
 
@@ -204,19 +204,17 @@ The expanded molecular genealogy names **Mendel; Watson, Crick and Franklin; mol
 
 #### The networked environment
 
-*Original section A8.*
+<!-- Historical section mapping retained pending relocation approval: *Original section A8.* -->
 
 IoT sensors, autonomous monitoring stations, bioacoustics, camera traps, drones, satellites and molecular sampling increasingly operate together.
 
 Ecological observation therefore moves from individual instruments toward **ecological information infrastructures**.
 
-This is especially important for the distributed bioregional course because the object of study is no longer simply a sensor. It is the complete chain:
+The object of study is no longer simply a sensor, but the complete chain:
 
 **Phenomenon → signal → sensor → data → transmission → storage → processing → indicator → visualization → interpretation → decision → intervention**
 
-That chain could become one of the central diagrams of the whole course.
-
-The expanded networked infrastructure also includes **automated weather stations, autonomous platforms, citizen sensing, smartphones, open hardware, distributed laboratories, GEO BON, EuropaBON and Essential Biodiversity Variables**. Observation becomes **persistent, distributed and networked**.
+Networked infrastructure also includes **automated weather stations, autonomous platforms, citizen sensing, smartphones, open hardware, distributed laboratories, GEO BON, EuropaBON and Essential Biodiversity Variables**. Observation becomes **persistent, distributed and networked**.
 
 ---
 
@@ -226,7 +224,7 @@ The expanded networked infrastructure also includes **automated weather stations
 
 #### From monitoring to prediction
 
-*Original section A9.*
+<!-- Historical section mapping retained pending relocation approval: *Original section A9.* -->
 
 Machine learning introduces another epistemological change.
 
@@ -245,7 +243,7 @@ This moves the history directly into **decision-support systems, ecological digi
 
 It also creates an important theoretical problem: ecological information becomes increasingly mediated by models that no individual observer can directly perceive.
 
-The expanded modelling scope includes **ecological modelling, Earth-system models, spatial decision support, early-warning signals, tipping points, resilience and scenario modelling**, alongside the machine learning, digital twins, forecasting and AI-assisted ecological reasoning already described.
+This modelling account includes **ecological modelling, Earth-system models, spatial decision support, early-warning signals, tipping points, resilience and scenario modelling**, alongside the machine learning, digital twins, forecasting and AI-assisted ecological reasoning already described.
 
 The epistemic transition becomes:
 
@@ -259,9 +257,9 @@ The epistemic transition becomes:
 
 #### Toward ecological intelligence
 
-*Original section A10.*
+<!-- Historical section mapping retained pending relocation approval: *Original section A10.* -->
 
-I would make the final section speculative rather than simply calling it “AI.”
+Ecological intelligence is treated here as a speculative trajectory rather than as a synonym for “AI.”
 
 The trajectory becomes:
 
@@ -273,17 +271,17 @@ The trajectory becomes:
 → **Decision intelligence** — connecting indicators to interventions  
 → **Distributed ecological intelligence** — places learning from one another.
 
-That final step connects particularly well to the architecture we have been developing for Japan, Scotland, African savannah and Terres de l'Ebre nodes. Each place generates a **regional ecological signature**, while shared computational methods allow comparison and learning between bioregions.
+In the proposed distributed architecture, nodes in Japan, Scotland, African savannah and Terres de l'Ebre would each generate a **regional ecological signature**, while shared computational methods would support comparison and learning between bioregions.
 
-This also suggests a strong theoretical proposition for the course:
+This suggests a theoretical proposition:
 
 > **Ecological information is not simply data collected from nature. It is the evolving system through which signals from living environments are selected, measured, classified, transmitted, modelled and translated into human decisions.**
 
-And that gives us three interlocking strands for the wider course: **History and Theory of Ecological Information** explains *how nature became knowable*; **Ecological Monitoring and Computing** teaches *how we make it measurable*; and **Bioregional / Design Practice** asks *what we should do with that knowledge*.
+Three complementary strands can be distinguished: **History and Theory of Ecological Information** explains *how nature became knowable*; **Ecological Monitoring and Computing** examines *how it becomes measurable*; and **Bioregional / Design Practice** asks *how that knowledge informs action*.
 
-That structure also creates a very clean bridge between the original **Surveilling Nature** course, the **Ecological Interactions** seminar, and *Making Place Computable*.
+These strands connect the themes of **Surveilling Nature**, the **Ecological Interactions** seminar, and *Making Place Computable*.
 
-This original endpoint now opens into further developments: ecological information can inform **adaptation, governance, design, technology choice, restoration and production**, as well as the decisions and interventions already described. The following stages extend the historical/conceptual arc toward those possibilities.
+This trajectory opens into further questions: ecological information can inform **adaptation, governance, design, technology choice, restoration and production**, as well as the decisions and interventions already described. The following stages extend the historical/conceptual arc toward those possibilities.
 
 ---
 
@@ -314,7 +312,7 @@ It exposes an important problem: **a place is not equally observable throughout 
 
 The proliferation of instruments exposes the fact that measurement does not automatically produce ecological knowledge.
 
-Distinguish:
+The relevant distinctions are:
 
 **direct observation → proxy → indirect measurement → inversion → model-derived variable → inference**
 
@@ -328,7 +326,7 @@ Includes:
 - uncertainty;
 - model validation.
 
-This becomes our provisional concept of **ecological observability**.
+This distinction informs the project's provisional concept of **ecological observability**.
 
 ---
 
@@ -451,7 +449,7 @@ The question becomes:
 
 ### 18. From observation to generation
 
-This is the newest historical/conceptual transition in our research.
+An emerging historical/conceptual transition concerns the generative role of ecological information.
 
 Environmental knowledge has largely developed through:
 
@@ -473,7 +471,7 @@ Ecological information begins informing not simply conservation or mitigation bu
 
 ### 19. Situated ecological technology
 
-Our provisional research branch connects:
+The provisional research branch of situated ecological technology connects:
 
 - appropriate technology;
 - citizen science;
@@ -496,7 +494,7 @@ Its question is:
 
 ### 20. Productive inference — from ecological signals to productive affordances
 
-This is currently the frontier generated by our investigation.
+Productive inference is a provisional direction of this investigation.
 
 **Ecological relationships**
 

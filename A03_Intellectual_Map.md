@@ -8,13 +8,15 @@
 
 ### The knowledge territories of ecological information
 
-The third structure is neither chronological nor a set of genealogies. It is the **present-day map of the territory**, now organised into eight large territories.
+The third structure is neither chronological nor a set of genealogies. It is a **present-day map of the territory**, organised into eight large territories.
 
+<!-- Historical development note retained pending approved relocation:
 **Original structure: C — Provisional intellectual map and accompanying discussion.** The original connective map and its accompanying discussion are retained below. The expanded A–H territories then provide the more detailed topic index, without replacing that earlier spine.
+-->
 
 ### A provisional intellectual map
 
-I think we can now construct something considerably more interesting than a chronological bibliography:
+The following provisional map connects intellectual traditions beyond a chronological bibliography:
 
 **PERCEPTION**  
 Uexküll → Gibson → affordances → animal sensing
@@ -64,17 +66,19 @@ Deleuze/Guattari → Latour → Stengers → Morton → contemporary environment
 **MAKING PLACE COMPUTABLE**  
 remote sensing + molecular sensing + sensor networks + ecological indicators + models + AI + regional comparison.
 
-The important discovery here is that **“ecological information” could operate as the connective concept between traditions that are normally taught separately**.
+**“Ecological information” could operate as a connective concept between traditions that are normally taught separately**.
 
-There is also a very useful tension running through the whole literature:
+A theoretical tension concerns the status of information:
 
 > **Does ecological information already exist in the world waiting to be detected, or is information produced through the relationship between organism, instrument, observer, model and environment?**
 
-Uexküll, Gibson, Bateson, Shannon, Odum, Church, Haraway, Latour, Morton and Gabrys would give radically different answers to that question.
+The perspectives of Uexküll, Gibson, Bateson, Shannon, Odum, Church, Haraway, Latour, Morton and Gabrys suggest different responses to that question.
 
-That is potentially the **central theoretical question of the History and Theory strand**.
+This is a potential **central theoretical question of the History and Theory strand**.
 
+<!-- Historical development note retained pending approved relocation:
 I would next expand this into a proper **academic literature map of perhaps 50–80 thinkers**, arranged by these intellectual lineages, with for each person **dates → discipline → key concept → 1–3 essential publications → relationship to ecological information → relevance to your course/PhD**. That would give us the scholarly foundation from which we can then reduce it to a teachable reading list.
+-->
 
 ---
 
@@ -168,7 +172,7 @@ IoT, bioacoustics, camera traps, drones and sensor networks.
 
 #### C13. Ecological observability
 
-Here sits the chain:
+This territory encompasses the chain:
 
 **phenomenon → difference → signal/cue → detection → measurement → representation → indicator → inference**
 
@@ -326,7 +330,7 @@ This territory asks:
 
 ### H. ECOLOGICAL INFORMATION AS GENERATIVE INFRASTRUCTURE
 
-This final territory is where the preceding seven converge and where your emerging research proposition belongs.
+This final territory brings together the preceding seven around the research proposition of ecological information as generative infrastructure.
 
 #### H1. Ecological inference
 
@@ -380,7 +384,7 @@ How can knowledge circulate between territories rather than reside in a centrali
 
 ### The three structures now work together
 
-This gives us three views of the same intellectual territory:
+The three structures provide complementary views of the same intellectual territory:
 
 | Structure | Function | Where to read it |
 |---|---|---|
@@ -388,21 +392,27 @@ This gives us three views of the same intellectual territory:
 | Overlapping Lineages | They tell the intellectual genealogies: perception; signs; organisms as information; cybernetics; ecosystem flows; Earth systems; computation; multispecies worlds; philosophy; hidden Earth; indicators; limits; industrial metabolism; generative ecological information. | [Lineages II.1–II.14](A02_Intellectual_Lineages.md#lineage-1) |
 | Intellectual Map | It describes the present knowledge territory through the eight A–H territories. | [Territories III.A–III.H](#territory-a) |
 
-There is also an important methodological advantage to keeping all three. A thinker such as Bateson appears at a particular historical moment in Structure I, participates in several intellectual lineages in Structure II, and occupies several conceptual territories in Structure III. We therefore avoid forcing the knowledge into a single hierarchical taxonomy.
+Retaining all three structures supports multiple perspectives. A thinker such as Bateson appears at a particular historical moment in Structure I, participates in several intellectual lineages in Structure II, and occupies several conceptual territories in Structure III. This arrangement avoids forcing the knowledge into a single hierarchical taxonomy.
 
-The same will happen with Critical Zone science, ecological footprint, Uexküll, industrial ecology, McHarg, Planetary Boundaries and many others. Multiple membership is desirable rather than a classification error.
+The same possibility applies to Critical Zone science, ecological footprint, Uexküll, industrial ecology, McHarg, Planetary Boundaries and other concepts and researchers. Multiple membership is desirable rather than a classification error.
 
-Ultimately that gives us the beginnings of the knowledge graph:
+These relationships suggest a provisional knowledge-graph structure:
 
 Person ↔ publication ↔ concept ↔ lineage ↔ discipline ↔ phenomenon ↔ signal ↔ method ↔ instrument ↔ indicator ↔ scale ↔ capacity ↔ technology ↔ intervention ↔ place
 
+<!-- Historical development note retained pending approved relocation:
 And importantly, I would freeze these three extended structures as our next conceptual checkpoint before adding further branches. The next operation should be exactly the sequence you proposed: first reconcile this expanded framework with the original Master Markdown so that no earlier material disappears; second audit the Reference Register against the Master; and only after those two agree, construct the textual knowledge map and machine-readable knowledge graph. That gives us a much more controlled foundation from which the eventual courses can later be extracted rather than allowing the course structure to prematurely determine the research structure.
+-->
 
+<!-- Historical development note retained pending approved relocation:
 **Editorial checkpoint:** This document is the Master Markdown knowledge bridge in that sequence. The proposed Reference Register audit, textual knowledge map, machine-readable knowledge graph and later course development remain subsequent operations.
+-->
 
 ---
 
 
-### Preserved baseline qualification
+<a id="preserved-baseline-qualification"></a>
 
-This is preservation of the historical discussion, not a fresh fact-check or endorsement of every historical claim or proposed connection. The map remains provisional.
+### Research qualifications
+
+The map remains provisional; its historical claims and proposed connections are not presented as independently verified findings.

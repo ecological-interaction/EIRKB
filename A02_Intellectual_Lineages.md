@@ -6,15 +6,17 @@
 
 ## II. OVERLAPPING LINEAGES OF THEORY AND IDEAS
 
-This second structure should **not follow chronology strictly**. Each lineage can stretch from ancient thought into contemporary science.
+This second structure does **not follow chronology strictly**. Each lineage can stretch from ancient thought into contemporary science.
 
+<!-- Historical development note retained pending approved relocation:
 **Original structure: B — Nine overlapping intellectual lineages.** Its original framing is retained here:
+-->
 
-The literature is much broader than “ecological information” as a named field. What you are constructing sits at the intersection of **ecology, cybernetics, information theory, perception, semiotics, Earth-system science, environmental sensing, genomics, STS, environmental humanities and computation**. Searching across those traditions produces a much more interesting intellectual genealogy.
+The literature extends beyond “ecological information” as a named field. The research sits at the intersection of **ecology, cybernetics, information theory, perception, semiotics, Earth-system science, environmental sensing, genomics, STS, environmental humanities and computation**. Examining these traditions together connects their intellectual genealogies.
 
-I would currently organise the field into **nine overlapping lineages**.
+The field is organised here into **fourteen overlapping intellectual lineages**.
 
-The expanded structure now contains fourteen lineages. The earlier nine titled discussions are integrated below, rather than silently replaced by the newer labels. The arrows are the provisional genealogical connections proposed in the discussion; they do not by themselves establish documented historical influence.
+The arrows represent provisional genealogical connections; they do not by themselves establish documented historical influence.
 
 ---
 
@@ -24,27 +26,27 @@ The expanded structure now contains fourteen lineages. The earlier nine titled d
 
 **Aristotle → Uexküll → Gibson → Maturana & Varela → enactive cognition → contemporary sensory ecology**
 
-Jakob von Uexküll is an unusually important starting point. His concept of **Umwelt** describes the species-specific perceptual world available to an organism. Different organisms therefore inhabit different informational versions of the same physical environment. Contemporary biosemiotics continues to develop this idea, including recent work applying Umwelt analysis directly to multispecies places.
+Jakob von Uexküll provides a starting point for this lineage. His concept of **Umwelt** describes the species-specific perceptual world available to an organism. Different organisms therefore inhabit different informational versions of the same physical environment. Contemporary biosemiotics continues to develop this idea, including recent work applying Umwelt analysis directly to multispecies places.
 
 **Key thinkers:** Uexküll; Charles Sanders Peirce; Thomas Sebeok; Jesper Hoffmeyer; Kalevi Kull; Timo Maran.
 
 **Key concepts:** Umwelt, signs, semiosis, biosemiotics, ecosemiotics, organism–environment coupling.
 
-Maran and Kull explicitly define **ecosemiotics** around environmental perception, conceptual categorisation and transformation of environments. Significantly, their genealogy explicitly includes Bateson.
+Maran and Kull explicitly define **ecosemiotics** around environmental perception, conceptual categorisation and transformation of environments. Their genealogy explicitly includes Bateson.
 
-This could become one of the deepest theoretical foundations for your question:
+This approach provides a theoretical basis for the question:
 
 **What information exists for an organism that does not exist for us?**
 
 #### Perception as ecological information
 
-*Original section B2.*
+<!-- Historical section mapping retained pending relocation approval: *Original section B2.* -->
 
 A closely related but independently developed tradition comes from James J. Gibson.
 
 Gibson's *The Ecological Approach to Visual Perception* (1979) treats perception not simply as internal processing of sensory inputs but as an organism actively picking up information from its environment. His ideas of **affordances, invariants and information pickup** are particularly relevant.
 
-There is an intriguing bridge here:
+The conceptual connection can be represented as:
 
 **Uexküll — Umwelt**  
 ↓  
@@ -58,13 +60,13 @@ environmental possibilities perceived through action
 ↓  
 technologically extended perception
 
-**Your work**  
+**Instrumentally extended ecological perception**<br/>
 ↓  
 What new ecological affordances become perceptible when instruments extend human sensing?
 
-That is potentially a substantial theoretical argument rather than merely a teaching device.
+This question links ecological monitoring to theories of perception and affordances.
 
-The expanded lineage makes **perception, ecological perception, embodiment and enaction** explicit alongside the Umwelt, affordances and organism–environment coupling above. The original question about what exists for an organism but not for us broadens into the comparison between any two organisms: **What information exists for one organism that does not exist for another?**
+This lineage makes **perception, ecological perception, embodiment and enaction** explicit alongside the Umwelt, affordances and organism–environment coupling above. The question can also be framed as a comparison between any two organisms: **What information exists for one organism that does not exist for another?**
 
 ---
 
@@ -86,11 +88,11 @@ The semiotic discussion and key thinkers already introduced in [lineage 1](#line
 
 #### Information becomes molecular
 
-*Original section B6.*
+<!-- Historical section mapping retained pending relocation approval: *Original section B6.* -->
 
-This is where your suggestion of George Church becomes useful.
+George Church provides a technological perspective on biological information.
 
-Church represents something different from Bateson or Morton. He is less a philosopher of ecological information than an important figure in the technological transition from **reading biological information to writing it**.
+Church represents something different from Bateson or Morton. His relevance here lies less in the philosophy of ecological information than in the technological transition from **reading biological information to writing it**.
 
 His work spans genome sequencing, molecular barcoding, DNA/RNA measurement, genome synthesis and synthetic biology; his Harvard research description explicitly includes measurement, synthesis and modelling of biomedical **and ecological systems**.
 
@@ -106,15 +108,15 @@ The genealogy here becomes:
 → **Church / synthetic biology**  
 → **reading AND writing biological systems**.
 
-But this strand needs critics and alternatives too.
+Alternative accounts qualify a gene-centred interpretation.
 
 Denis Noble argues against treating genes as the uniquely privileged causal level. His systems-biology account stresses feedback across multiple organisational levels.
 
-That debate is exceptionally useful educationally:
+The debate raises the question:
 
 **Is an organism encoded in its genome—or does biological information emerge through interactions across scales?**
 
-The expanded lineage connects that Darwin/Mendel–molecular biology–DNA–genomics–sequencing–Church trajectory to **systems biology**, and extends “organisms as information” beyond genetics. Organisms:
+This lineage connects that Darwin/Mendel–molecular biology–DNA–genomics–sequencing–Church trajectory to **systems biology**, and extends “organisms as information” beyond genetics. Organisms:
 
 - contain inherited information;
 - embody developmental history;
@@ -136,9 +138,9 @@ Thus organisms **sense, embody, produce, transmit and respond to information**.
 
 #### Information, feedback and the ecology of mind
 
-*Original section B3.*
+<!-- Historical section mapping retained pending relocation approval: *Original section B3.* -->
 
-Here Gregory Bateson becomes pivotal.
+Gregory Bateson connects these theoretical traditions.
 
 His *Steps to an Ecology of Mind* (1972) brought communication theory, cybernetics, anthropology, evolution and ecology together. Bateson's importance is not simply the famous formulation of information as a difference that makes a difference; it is his attempt to understand **pattern, relationship, feedback and mind across organism/environment systems**. Contemporary ecosemiotics explicitly acknowledges this lineage.
 
@@ -154,7 +156,7 @@ Around Bateson sits a major constellation:
 
 Shannon's information theory subsequently entered ecology; Robert MacArthur's 1955 work is often identified as an early application of information theory to ecological systems.
 
-This gives us a historical transformation:
+The historical transformation can be expressed as:
 
 **information transmitted through communication systems**
 
@@ -162,7 +164,7 @@ becomes
 
 **information circulating through ecological systems**.
 
-The expanded scope makes **entropy, noise and control** explicit alongside information, communication, feedback, regulation, requisite variety and second-order cybernetics in the original discussion.
+This lineage makes **entropy, noise and control** explicit alongside information, communication, feedback, regulation, requisite variety and second-order cybernetics.
 
 > **How does information participate in persistence, adaptation and organisation?**
 
@@ -176,13 +178,13 @@ The expanded scope makes **entropy, noise and control** explicit alongside infor
 
 #### Ecosystems as information/energy systems
 
-*Original section B4.*
+<!-- Historical section mapping retained pending relocation approval: *Original section B4.* -->
 
-Howard T. Odum deserves a major place alongside Bateson.
+Howard T. Odum provides a systems-ecological perspective alongside Bateson.
 
 Odum developed systems ecology through energy flows, feedback, networks and ecological modelling and later explicitly considered the role and value of **information** within natural and social systems.
 
-His diagrams are particularly interesting for your course because they are effectively an early **visual programming language for ecological systems**.
+His diagrams can be interpreted as an early **visual programming language for ecological systems**.
 
 Odum describes ecosystems as processing **energy, materials and information**.
 
@@ -208,7 +210,7 @@ This flow-based lineage also foregrounds **nutrients, trophic networks, metaboli
 
 #### Planetary information and Gaia
 
-*Original section B5.*
+<!-- Historical section mapping retained pending relocation approval: *Original section B5.* -->
 
 Another branch scales this reasoning to Earth.
 
@@ -237,11 +239,11 @@ The intellectual lineage extends backwards and forwards:
 **planetary sensing**  
 → satellites + sensor networks + computation.
 
-This creates another powerful question for the course:
+This raises a question about planetary observation:
 
 > At what point did Earth cease to be merely *mapped* and become continuously *sensed*?
 
-The expanded genealogy connects **Humboldt → Vernadsky → Lovelock/Margulis → Earth System Science → Lenton → Critical Zone science**. Alongside the biosphere, Gaia and Earth-system feedback already described, it makes **biogeochemical cycles, the Critical Zone and tipping elements** explicit.
+This genealogy connects **Humboldt → Vernadsky → Lovelock/Margulis → Earth System Science → Lenton → Critical Zone science**. Alongside the biosphere, Gaia and Earth-system feedback already described, it makes **biogeochemical cycles, the Critical Zone and tipping elements** explicit.
 
 > **At what scales does ecological interdependence become intelligible?**
 
@@ -255,23 +257,19 @@ The expanded genealogy connects **Humboldt → Vernadsky → Lovelock/Margulis �
 
 #### Technology doesn't just observe environments—it constructs them as data
 
-*Original section B8.*
+<!-- Historical section mapping retained pending relocation approval: *Original section B8.* -->
 
-This may be the most directly relevant contemporary literature to **Making Place Computable**.
+This literature is relevant to **Making Place Computable**.
 
-Jennifer Gabrys should definitely enter your central reading list.
+Jennifer Gabrys's work addresses environmental sensing and planetary computation.
 
-Her *Program Earth: Environmental Sensing Technology and the Making of a Computational Planet* examines distributed environmental sensing and makes the crucial argument that sensors don't simply passively record environments. Sensor technologies participate in producing environments as computational objects.
+Her *Program Earth: Environmental Sensing Technology and the Making of a Computational Planet* examines distributed environmental sensing and argues that sensors don't simply passively record environments. Sensor technologies participate in producing environments as computational objects.
 
 She traces a history from Sputnik through electronic environmental monitoring toward sensorised environments and argues that computational technologies have become environmental while environments themselves increasingly become computational.
 
-This is remarkably close to your PhD framing.
+This approach is relevant to research examining how environmental sensing makes places computable.
 
-I would therefore put:
-
-**Bateson → Gabrys**
-
-as one of the principal axes of the research.
+The connection **Bateson → Gabrys** is proposed as one of the principal axes of this research.
 
 Around Gabrys:
 
@@ -284,11 +282,11 @@ Around Gabrys:
 **Yuk Hui** — digital objects, technodiversity/cosmotechnics  
 **Gilbert Simondon** — technology, information and milieu.
 
-Simondon looks particularly important. *Individuation in Light of Notions of Form and Information* directly connects information, organisms, milieu, thermodynamics, cybernetics and technical objects.
+*Individuation in Light of Notions of Form and Information* directly connects information, organisms, milieu, thermodynamics, cybernetics and technical objects.
 
 Yuk Hui then carries parts of this tradition into digital systems, examining digital objects relationally within technical systems and milieux.
 
-This technical lineage encompasses **environmental measurement, spatial representation, ecological indices, data infrastructures and digital twins**, alongside remote sensing and planetary computation. Its question follows directly from the original discussion:
+This technical lineage encompasses **environmental measurement, spatial representation, ecological indices, data infrastructures and digital twins**, alongside remote sensing and planetary computation. Its question is:
 
 > **What happens when environments become computational objects?**
 
@@ -302,9 +300,9 @@ This technical lineage encompasses **environmental measurement, spatial represen
 
 #### Nonhuman intelligence, meaning and multispecies worlds
 
-*Original section B7.*
+<!-- Historical section mapping retained pending relocation approval: *Original section B7.* -->
 
-Here we move into a particularly fertile contemporary literature.
+This lineage examines contemporary multispecies literature.
 
 Eduardo Kohn's *How Forests Think* asks anthropology to consider forms of representation and meaning extending beyond humans.
 
@@ -312,7 +310,7 @@ Donna Haraway develops multispecies relations, sympoiesis and “making-with” 
 
 Vinciane Despret asks how scientific questions and experimental arrangements affect what animals are capable of revealing to observers.
 
-Add:
+Related researchers include:
 
 **Anna Tsing** — multispecies assemblages  
 **Eben Kirksey** — multispecies ethnography/emergent ecologies  
@@ -327,7 +325,7 @@ Multispecies studies now explicitly describes itself as studying epistemological
 
 This directly supports the **“senses of other organisms”** component of Ecological Interactions.
 
-The expanded framing connects **animal worlds, plant signalling, multispecies relations, nonhuman agency, communication and situated knowledge**. It challenges human monopoly over perception and intelligence.
+This framing connects **animal worlds, plant signalling, multispecies relations, nonhuman agency, communication and situated knowledge**. It challenges human monopoly over perception and intelligence.
 
 ---
 
@@ -353,15 +351,15 @@ challenges conventional ideas of “nature,” environmental separation and scal
 
 **Hyperobjects** is particularly relevant to ecological information because phenomena such as climate change exceed ordinary human spatial and temporal perception. They become knowable through **distributed measurements, models, visualisations and computational infrastructures**.
 
-That produces a striking connection:
+A conceptual connection can be drawn:
 
 **Morton describes the epistemological problem.**
 
 **Remote sensing and ecological computing provide mechanisms through which parts of the otherwise imperceptible phenomenon become detectable.**
 
-And Bruno Latour belongs very close to this discussion. His later work on Gaia and **Critical Zones** asks how scientific instruments, representations, organisms, soils, atmospheres and political institutions participate in making terrestrial conditions knowable.
+Bruno Latour’s later work on Gaia and **Critical Zones** asks how scientific instruments, representations, organisms, soils, atmospheres and political institutions participate in making terrestrial conditions knowable.
 
-The expanded philosophical questions are:
+The philosophical questions are:
 
 - What is nature?
 - Where does organism end and environment begin?
@@ -452,7 +450,7 @@ The fundamental question becomes:
 
 **McHarg → suitability analysis → appropriate technology → ecological design → regenerative design → geodesign → situated ecological technology → productive inference**
 
-This lineage is especially important because it moves from:
+This lineage moves from:
 
 **knowing**
 
